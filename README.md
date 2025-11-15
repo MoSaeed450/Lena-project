@@ -22,7 +22,7 @@ https://lena-sandy.vercel.app/
 - Goal tracking with streak visualization
 - Smooth GSAP scroll animations
 - Fully responsive design
-- Glassmorphism UI
+- Dark mode support
 
 ---
 
