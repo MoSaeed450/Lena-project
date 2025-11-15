@@ -10,7 +10,7 @@ https://lena-sandy.vercel.app/
 
 ## 📸 Screenshots
 ![Homepage](./lena1.png)
-![Dashboard](./lena2.png)
+![Dashboard](./lena3.png)
 
 ---
 
