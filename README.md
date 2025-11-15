@@ -1,4 +1,4 @@
-# 🎯 Lena
+# 💡 Lena
 Modern focus and productivity platform with Pomodoro timers, demo real-time collaboration, ambient sounds, task management, and goal tracking.
 
 ---
