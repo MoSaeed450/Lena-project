@@ -35,8 +35,4 @@ https://lena-sandy.vercel.app/
 - **Framer Motion**
 - **Tailwind CSS**
 
----
-
----
-
-Built with 💙 by [Your Name]
+-------------------
