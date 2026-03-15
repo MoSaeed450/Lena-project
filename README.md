@@ -3,9 +3,6 @@ Modern focus and productivity platform with Pomodoro timers, demo real-time coll
 
 ---
 
-## 🔗 Live Demo
-https://lena-sandy.vercel.app/
-
 ---
 
 ## 📸 Screenshots
