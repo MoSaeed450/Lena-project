@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Replace with your project banner/logo -->
-  <img src="" alt="Lena Logo" width="600" />
+  <img src="Lena.svg" alt="Lena Logo" width="600" />
 
   <h1>🌿 Lena</h1>
 
@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/Next.js-16-000?logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/GSAP-3-88CE02?logo=greensock&logoColor=white" alt="GSAP" />
-    <img src="https://img.shields.io/badge/Framer_Motion-12-E844C3?logo=framer&logoColor=white" alt="Framer Motion" />
     <img src="https://img.shields.io/badge/TailwindCSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind" />
     <img src="https://img.shields.io/badge/Redux_Toolkit-State-764ABC?logo=redux&logoColor=white" alt="Redux" />
     <img src="https://img.shields.io/badge/Howler.js-Audio-FFD700?logo=audio&logoColor=black" alt="Howler" />
@@ -49,15 +48,13 @@
 ## 📋 Table of Contents
 
 - [About The Project](#-about-the-project)
-- [Brand Direction](#-brand-direction)
 - [AI-Guided Workflow](#-ai-guided-workflow)
-- [Project Evolution](#-project-evolution)
 - [Tech Stack](#-tech-stack)
+- [Direction](#-direction)
 - [Features](#-features)
 - [Lessons Learned](#-lessons-learned)
 - [Roadmap](#-roadmap)
 - [Contact](#-contact)
-- [Acknowledgments](#-acknowledgments)
 - [License](#-license)
 
 ---
@@ -79,8 +76,8 @@ Most productivity tools today feel like clinical spreadsheets—functional, but 
 
 ---
 
-<!-- BRAND DIRECTION -->
-## 🎨 Brand Direction
+<!-- DIRECTION -->
+## 🎨 Direction
 
 > **"Lena" is more than a name; it's a commitment to clarity and focus.**
 
@@ -133,51 +130,6 @@ The typography reflects the "Light" name:
 | Micro-Copy | ChatGPT | Brainstormed slogans and widget names that align with the "Sanctuary" brand voice. |
 
 </div>
-
----
-
-<!-- PROJECT EVOLUTION -->
-## 🔄 Project Evolution
-> **Architecture over Speed:** Lena didn't just grow; it was fundamentally re-engineered to meet professional standards.
-
-### V1 — The Prototype
-<table>
-  <tr>
-    <td><strong>Timeline</strong></td>
-    <td>Mid-August 2025</td>
-  </tr>
-  <tr>
-    <td><strong>Stack</strong></td>
-    <td>React + Vite + SCSS + Framer Motion</td>
-  </tr>
-  <tr>
-    <td><strong>Status</strong></td>
-    <td>✅ Completed</td>
-  </tr>
-</table>
-
-### V2 — The Digital Sanctuary (Live)
-<table>
-  <tr>
-    <td><strong>Timeline</strong></td>
-    <td>Late 2025 – Present</td>
-  </tr>
-  <tr>
-    <td><strong>Stack</strong></td>
-    <td>Next.js 16 + Tailwind CSS 4 + GSAP 3 + Redux</td>
-  </tr>
-  <tr>
-    <td><strong>Status</strong></td>
-    <td>🔄 Actively Maintained & Enhanced</td>
-  </tr>
-</table>
-
-### Why I Rebuilt It
-
-- **Performance & SEO:** Moving to Next.js 16 provided the core infrastructure needed for a blazing-fast, SEO-ready application.
-- **GSAP Mastery:** I wanted to move beyond simple transitions. Lena features intricate, timeline-based GSAP effects (SplitText, Reveal, and Inertia) that create a truly cinematic feel.
-- **The Power of Tailwind 4:** Transitioning from "nested SCSS mazes" to the utility-first freedom of Tailwind 4 allowed for a much cleaner, more maintainable design system.
-- **Robust State Management:** Redux Toolkit was implemented to handle the global state of the "Space" (Cart, Notes, Goals, and Sounds) ensuring a predictable and bug-free user journey.
 
 ---
 
@@ -256,13 +208,6 @@ Upwork: https://www.upwork.com/freelancers/~01c5b6713470336779
 </p>
 
 **Project Link:** [(https://sakura-kohl.vercel.app/](https://sakura-kohl.vercel.app/))
-
----
-
-<!-- ACKNOWLEDGMENTS -->
-## 🙏 Acknowledgments
-
-- My Family ❤
 
 ---
 
