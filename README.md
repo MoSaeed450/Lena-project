@@ -63,27 +63,31 @@
 ## 🎯 About The Project
 
 ### Problem & Solution Statement
-Most productivity tools today feel like clinical spreadsheets—functional, but cold and uninspiring. They focus so much on "getting things done" that they forget the human need for a peaceful environment.
+Most productivity tools today feel like clinical spreadsheets—overly practical, intimidating, and disconnected from how people actually feel. They focus so much on "getting things done" that they forget the human need for a peaceful, supportive environment. 
 
-**Lena** (which means *Light*) was built to bridge this gap. It is a digital sanctuary designed to turn your screen into a focused, breathable workspace. It’s not just a dashboard; it’s a place to quiet the noise and let your creativity shine.
+As a student who constantly struggled with distractions and the heavy pressure of studying, I realized we needed something different. We didn't need another app acting like a strict boss; we needed a safe space.
+
+**Lena** was built to bridge this gap. Created *by a student, for all students*, it is a digital sanctuary designed to turn your screen into a focused, breathable workspace. It’s a "safe space" that doesn't demand anything extra from you or overwhelm you. Instead, it invites you to quiet the noise, enter your flow state effortlessly, and get things done without the mental burden.
 
 ### Key Highlights
 
-- **Solo-Led Vision & Dev:** From the initial "Space" concept to the advanced GSAP magnetic animations, every detail was carefully curated and coded by me.
-- **Aesthetic First:** Heavily inspired by Neo-brutalism and artistic minimalism, Lena uses a unique "Papyrus & Prussian Blue" palette to reduce eye strain and promote calm.
-- **Modular Dashboard:** A highly interactive "Space" featuring custom-built widgets like a Goal Streak indicator, Pomodoro timer, and an integrated Soundscape.
-- **Continuous Evolution:** What started as a simple Vite project has been rebuilt into a high-performance Next.js 16 engine with professional-grade motion design.
+- **From Student to all Students:** Born out of real struggles with focus and distractions, perfectly tailored for Gen Z students, yet deeply beneficial for anyone looking to calm their nerves while working.
+- **Playful yet Disciplined:** A delicate balance of being fun, relaxing, and aesthetic, while still providing the powerful features needed for deep focus and discipline.
+- **Aesthetic First:** Heavily inspired by Neo-brutalism and artistic minimalism. Lena uses a unique palette with fun, vibrant accents to reduce eye strain, promote calm, and make the space feel genuinely inviting rather than clinical.
+- **Solo-Led Vision & Dev:** From the initial "Space" concept to the advanced GSAP animations, every detail was carefully curated and coded by me to ensure a cohesive, human-centered experience.
 
 ---
 
 <!-- DIRECTION -->
 ## 🎨 Direction
 
-> **"Lena" is more than a name; it's a commitment to clarity and focus.**
+> **"Lena" is more than a name; it's a commitment to clarity, comfort, and zero-pressure productivity.**
 
 ### Vibes & Mood
 
-The core vision for Lena was to create a "Paper Sanctuary." In a world of over-saturated blue light and jarring UI, Lena takes inspiration from physical stationery and calm, artistic spaces. It’s designed for those who want their browser to feel as comfortable as a quiet room at twilight.
+The core vision for Lena was to create a "Paper Sanctuary." In a world of over-saturated blue light and jarring UI, Lena takes inspiration from physical stationery and calm, artistic spaces. It’s designed for those who want their browser to feel as comfortable as a quiet room at twilight. 
+
+The copywriting, animations, and overall vibes all converse together to whisper: *"Take a deep breath, you're safe here, let's get into the zone."*
 
 <div align="center">
   <img src="" alt="Lena Moodboard 1" width="80%" />
@@ -92,27 +96,21 @@ The core vision for Lena was to create a "Paper Sanctuary." In a world of over-s
 
 ### Color Palette
 
-The colors were chosen to evoke "Dusty Elegance" and "Deep Focus."
+The colors were chosen to evoke "Dusty Elegance" and "Deep Focus," striking the perfect balance between playful, fun, and relaxing.
 
 <div align="center">
 
 | Color | Hex | Usage |
 |-------|-----|-------|
-| Papyrus Cream | `#FDF0D5` | The primary background — soft on the eyes and organic. |
-| Prussian Blue | `#003049` | Deep, high-contrast typography for ultimate readability. |
-| Sky Blue | `#669BBC` | Primary accent for active UI elements and interactive widgets. |
-| Muted Coral | `#ff8b8b` | Soft highlights to identify priority tasks without inducing stress. |
+| Papyrus Cream | `#FDF0D5` | The primary background — soft on the eyes, organic, and grounding. |
+| Prussian Blue | `#003049` | Deep, high-contrast typography for ultimate readability and discipline. |
+| Sky Blue | `#669BBC` | Primary accent for active UI elements, adding a dynamic and playful layer. |
+| Muted Coral | `#ff8b8b` | Soft highlights to identify priority tasks without inducing anxiety or stress. |
 
 </div>
 
 ### Target Audience
-Lena is for the "Digital Hermit"—the developer, writer, or designer who needs a distraction-free zone to do their best work. It’s specifically crafted for users who value the *experience* of work as much as the output.
-
-### Typography Direction
-The typography reflects the "Light" name:
-- **Tajawal (Arabic):** Clean and modern, providing a seamless bi-lingual experience.
-- **Space Grotesk & Inconsolata:** Bringing a tech-savvy but organized soul to the headers and mono elements.
-- **Caveat:** Used for subtle human touches, giving the digital space a handwritten, personal feel.
+Lena’s primary audience is those who want a visually pleasing, fun, and distraction-free zone to study and produce their best work. However, the core philosophy of a "calm productivity space" makes it perfect for the "Digital Hermit" (developers, writers, or designers) or anyone who values the *mental well-being* of their workflow and just wants to calm down and work.
 
 ---
 
@@ -125,9 +123,8 @@ The typography reflects the "Light" name:
 
 | Area | Tool | How I Used It |
 |------|------|---------------|
-| Research | Flora.ai | Analyzed design patterns to balance artistic flair with functional UX. |
-| Logic & Refactoring | Antigravity / Copilot | Pair-programming for managing complex GSAP timelines and migrating the state logic to Redux Toolkit. |
-| Micro-Copy | ChatGPT | Brainstormed slogans and widget names that align with the "Sanctuary" brand voice. |
+| **Programming & Logic** | Antigravity | Pair-programming for building complex GSAP timelines, managing state logic, and overall frontend architecture. |
+| **Copywriting, Imagery and research** | ChatGPT | Brainstorming slogans, crafting the "Sanctuary" brand voice, and assisting with conceptual imagery. |
 
 </div>
 
@@ -142,7 +139,7 @@ The typography reflects the "Light" name:
 |----------|-----------|
 | **Framework** | Next.js 16 (App Router) |
 | **UI Library** | React 19 |
-| **Animations** | GSAP 3 + Framer Motion |
+| **Animations** | GSAP 3 |
 | **Styling** | Tailwind CSS 4 |
 | **State Management** | Redux Toolkit |
 | **Smooth Scroll** | Lenis |
@@ -156,10 +153,13 @@ The typography reflects the "Light" name:
 <!-- FEATURES -->
 ## ✨ Features
 
-- **The Space Dashboard:** A dedicated distraction-free route designed as your digital home base.
-- **Goal Streak Tracking:** High-impact visual progress for tracking habits and deadlines.
-- **Ambient Soundscape:** Integrated audio controls powered by Howler for focusing with white noise or lo-fi beats.
-- **Cinematic Interactions:** GSAP-driven magnetic buttons and reveal animations that respond to your touch.
+### ✨ Key Features
+
+- **The Space Dashboard:** A dedicated, distraction-free route designed to act as your calm digital home base for deep focus.
+- **Goal Streak Tracking:** High-impact visual progress widget for tracking habits and deadlines, helping you stay disciplined without feeling overwhelmed.
+- **Immersive Pomodoro Timer:** A fully customizable focus timer. Features a distraction-free "Zen Mode" that expands into full-screen with a breathing, animated soft background.
+- **Smart Todo & Notes:** An interactive daily task manager Includes a mini-notepad to capture stray ideas without breaking your flow.
+- **Ambient Soundscape:** Integrated audio controls to layer white noise, rain over your session, instantly tuning out the real world.
 - **Fully Responsive Sanctuary:** A flawless experience across mobile and desktop, ensuring your focus follows you everywhere.
 
 ---
@@ -181,10 +181,11 @@ The typography reflects the "Light" name:
 
 <!-- ROADMAP -->
 ## 🗺 Roadmap
-
-- [ ] **Custom Sound Uploads:** Allow users to upload their own focus tracks.
-- [ ] **Widget Marketplace:** A system for users to toggle and customize their "Space" layout.
-- [ ] **Multi-language Support:** Expanding the sanctuary to even more users.
+You can consider The current version of Lena as MVP. The core philosophy of this project is ultimate personalization—allowing users to mold the space precisely how they need it. Here’s what’s next on the horizon:
+- [ ] **Backend Integration:** Implementing a robust backend to save your personal metrics, goals, and customizations across multiple devices.
+- [ ] **Full Collab Mode Activation:** Bringing the real-time "Team Session" to life, so you can study alongside your friends, mirroring the quiet accountability of a college library.
+- [ ] **Custom Sound Uploads:** Allow users to upload or link their own focus tracks to blend with the built-in soundscapes.
+- [ ] **Multi-language Support:** Expanding the sanctuary to even more students worldwide.
 
 ---
 
@@ -207,10 +208,10 @@ Upwork: https://www.upwork.com/freelancers/~01c5b6713470336779
   <a href="mailto:mosaeed162005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-**Project Link:** [(https://sakura-kohl.vercel.app/](https://sakura-kohl.vercel.app/))
+**Project Link:** [(https://lena-sandy.vercel.app/)](https://lena-sandy.vercel.app/)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="">Mohamed Saeed</a></p>
+  <p>Built from a student for all students❤️. <a href="">Mohamed Saeed</a></p>
 </div>
